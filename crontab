@@ -1,5 +1,1 @@
 */5 * * * * /usr/bin/php /www/SSPanel-Uim/xcat  Cron
-*/1 * * * * /usr/bin/php /www/SSPanel-Uim/xcat  Job CheckJob
-0 */1 * * * /usr/bin/php /www/SSPanel-Uim/xcat  Job UserJob
-0 0 * * * /usr/bin/php -n /www/SSPanel-Uim/xcat Job DailyJob
-* */1 * * * /usr/bin/php /www/SSPanel-Uim/xcat DetectGFW
