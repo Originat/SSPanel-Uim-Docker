@@ -1,1 +1,1 @@
-*/5 * * * * /usr/bin/php /www/SSPanel-Uim/xcat  Cron
+*/5 * * * * php /www/SSPanel-Uim/xcat  Cron
